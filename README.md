@@ -1,2 +1,2 @@
-# CG-Software-Renderer
-Part of the Computer Graphics course
+# Computer Graphics - Software Renderer
+Done as part of a Computer Graphics course.
