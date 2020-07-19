@@ -1,2 +1,2 @@
 # Computer Graphics - Software Renderer
-Done as part of a Computer Graphics course.
+Done as part of Computer Graphics course.
